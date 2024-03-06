@@ -126,7 +126,7 @@
 
   **_ Self learning: _**
 
-  - Microtasks
+  - Microtasks **_ new _**
 
 ### Day 7: Asynchronous JavaScript Fetch API and Advanced FORM Manipulation
 
