@@ -6,7 +6,7 @@
 - JavaScript Fundamentals
   - Hello, world!
   - Code structure
-  - The modern mode, "use strict"  $\color{red}{**_ new _**}$ 
+  - The modern mode, "use strict" -  $\color{red}{**_ new _**}$ 
     - In JavaScript, "use strict"; is a directive that tells the browser to execute the code in strict mode. When you use strict mode, JavaScript enforces stricter rules and generates more errors in certain situations. This can help you write cleaner, more robust code and catch potential issues early.
   - Variables
   - Data types
