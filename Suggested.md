@@ -59,8 +59,6 @@
   - In JavaScript, the Symbol type is a unique and immutable data type introduced in ECMAScript 2015 (ES6). Symbols are used to create unique identifiers that can be used as property keys for object propertie
 - Object to primitive conversion **_ new _**
   - JavaScript automatically converts objects to primitive values when they are used in contexts where primitives are expected. This process is called "object-to-primitive conversion."
-- WeakMap and WeakSet **_ new _**
-  - WeakMap and WeakSet provide mechanisms for associating data with objects and tracking object existence in a way that allows for garbage collection when objects are no longer needed. 
 
 ### Day 3: DOM Manipulation
 
@@ -122,6 +120,8 @@
 
 **_ Self learning: _**
 
+- WeakMap and WeakSet **_ new _**
+  - WeakMap and WeakSet provide mechanisms for associating data with objects and tracking object existence in a way that allows for garbage collection when objects are no longer needed. 
 - Recursion and stack **_ new _**
   - Recursion is a programming pattern that is useful in situations when a task can be naturally split into several tasks of the same kind, but simpler
 - Function binding **_ new _**
